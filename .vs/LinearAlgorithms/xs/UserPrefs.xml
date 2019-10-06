@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1978F99F-FFBE-40DF-B5E1-0C7C4EF19979}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinearAlgorithms/Program.cs">
+    <Files>
+      <File FileName="LinearAlgorithms/Program.cs" Line="13" Column="58" />
+      <File FileName="LinearAlgorithms.Tests/Test.cs" Line="5" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinearAlgorithms" expanded="True">
+            <Node name="LinearAlgorithms" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="LinearAlgorithms.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LinearAlgorithms.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LinearAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

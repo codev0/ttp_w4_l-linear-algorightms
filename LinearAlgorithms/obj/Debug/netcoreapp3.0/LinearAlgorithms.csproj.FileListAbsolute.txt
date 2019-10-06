@@ -1,0 +1,11 @@
+/Users/codev0/projects/LinearAlgorithms/LinearAlgorithms/bin/Debug/netcoreapp3.0/LinearAlgorithms
+/Users/codev0/projects/LinearAlgorithms/LinearAlgorithms/bin/Debug/netcoreapp3.0/LinearAlgorithms.deps.json
+/Users/codev0/projects/LinearAlgorithms/LinearAlgorithms/bin/Debug/netcoreapp3.0/LinearAlgorithms.runtimeconfig.json
+/Users/codev0/projects/LinearAlgorithms/LinearAlgorithms/bin/Debug/netcoreapp3.0/LinearAlgorithms.runtimeconfig.dev.json
+/Users/codev0/projects/LinearAlgorithms/LinearAlgorithms/bin/Debug/netcoreapp3.0/LinearAlgorithms.dll
+/Users/codev0/projects/LinearAlgorithms/LinearAlgorithms/bin/Debug/netcoreapp3.0/LinearAlgorithms.pdb
+/Users/codev0/projects/LinearAlgorithms/LinearAlgorithms/obj/Debug/netcoreapp3.0/LinearAlgorithms.csprojAssemblyReference.cache
+/Users/codev0/projects/LinearAlgorithms/LinearAlgorithms/obj/Debug/netcoreapp3.0/LinearAlgorithms.AssemblyInfoInputs.cache
+/Users/codev0/projects/LinearAlgorithms/LinearAlgorithms/obj/Debug/netcoreapp3.0/LinearAlgorithms.AssemblyInfo.cs
+/Users/codev0/projects/LinearAlgorithms/LinearAlgorithms/obj/Debug/netcoreapp3.0/LinearAlgorithms.dll
+/Users/codev0/projects/LinearAlgorithms/LinearAlgorithms/obj/Debug/netcoreapp3.0/LinearAlgorithms.pdb
